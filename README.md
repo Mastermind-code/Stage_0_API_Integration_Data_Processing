@@ -15,8 +15,8 @@ A simple REST API that classifies a name by gender using the [Genderize.io](http
 1. Clone the repository
 
 ```bash
-   git clone ___
-   cd ___
+   git clone https://github.com/Mastermind-code/Stage_0_API_Integration_Data_Processing.git
+   cd Stage_0_API_Integration_Data_Processing
 ```
 
 2. Create a virtual environment
